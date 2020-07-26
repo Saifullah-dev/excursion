@@ -1,0 +1,49 @@
+/* Universal Styles */
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    color: white;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+a {
+    color: aquamarine;
+}
+
+.gray-style {
+    color: gray;
+    font-size: 1.3125rem;
+}
+
+/* Header */
+
+header h1 {
+    font-weight: normal;
+    font-size: 3.125rem;
+}
+
+/* Main Starts Here */
+
+/* Sectioin # 1 */
+/* empty */
+
+/* Section # 2 */
+/* empty */
+
+/* Section # 3*/
+
+#sec-3 .image {
+    margin: 1.3125rem;
+}
+
+/* Footer */
+
+footer .copyright {
+    text-align: right;
+}
